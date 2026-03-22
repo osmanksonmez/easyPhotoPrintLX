@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="60" fill="#1e1e2e"/>
+
+  <!-- Photo stack (back) -->
+  <rect x="34" y="28" width="46" height="56" rx="4" fill="#45475a" transform="rotate(-8 57 56)"/>
+
+  <!-- Photo (middle) -->
+  <rect x="37" y="30" width="46" height="56" rx="4" fill="#585b70" transform="rotate(-3 60 58)"/>
+
+  <!-- Main photo -->
+  <rect x="40" y="32" width="46" height="56" rx="4" fill="#cdd6f4"/>
+  <!-- Photo image area -->
+  <rect x="44" y="36" width="38" height="30" rx="2" fill="#7c6af7"/>
+  <!-- Sun in photo -->
+  <circle cx="58" cy="48" r="6" fill="#f9e2af"/>
+  <!-- Hills in photo -->
+  <ellipse cx="52" cy="66" rx="12" ry="8" fill="#a6e3a1"/>
+  <ellipse cx="68" cy="66" rx="14" ry="9" fill="#94e2d5"/>
+  <!-- Photo caption lines -->
+  <rect x="44" y="72" width="24" height="4" rx="2" fill="#585b70"/>
+  <rect x="44" y="80" width="16" height="3" rx="1.5" fill="#6c7086"/>
+
+  <!-- Printer body -->
+  <rect x="22" y="76" width="84" height="32" rx="6" fill="#313244"/>
+  <!-- Printer top slot -->
+  <rect x="32" y="72" width="64" height="8" rx="2" fill="#45475a"/>
+  <!-- Printer output slot -->
+  <rect x="30" y="104" width="68" height="5" rx="2" fill="#45475a"/>
+  <!-- Paper coming out -->
+  <rect x="38" y="100" width="52" height="14" rx="2" fill="#eff1f5"/>
+  <!-- Paper lines -->
+  <rect x="43" y="105" width="28" height="2.5" rx="1" fill="#bac2de"/>
+  <rect x="43" y="110" width="20" height="2" rx="1" fill="#bac2de"/>
+  <!-- Printer button -->
+  <circle cx="92" cy="92" r="5" fill="#7c6af7"/>
+  <circle cx="92" cy="92" r="3" fill="#9b8fff"/>
+  <!-- Printer light -->
+  <circle cx="78" cy="92" r="3" fill="#a6e3a1"/>
+</svg>
